@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Front End Developer",
+    "organisation": "Takamol",
+    "startDate": "Feb, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Built an Accounting and Tourism project using Angular",
+      "Modify and maintin exist Applications",
+      "Connect with UI/UX designers,and back end developers",
+      "Developed responsive and user-friendly UI/UX interfaces",
+      "Debugged and optimized the project for improved performance and load times"
+    ],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Full Stack Developer",
+    "organisation": "Engineering Integration System",
+    "startDate": "Feb, 2023",
+    "endDate": "Jan, 2024",
+    "experiences": [
+      "Collaborated with cross-functional teams to deliver high quality and visually appealing desktop applications and web applications",
+      "Actively working with the development and maintenance of projects using Angular and .Net",
+      "Creating and Updating 30+ Features",
+      "Wrote backend code integrated with frameworks and APIs"
+    ],
+    "imageSrc": "history/microsoft.png"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png",
+    "percentage": "95%"
+  },
+  {
+    "title": "TypeScript",
+    "imageSrc": "skills/typescript.png",
+    "percentage": "95%"
+  },
+  {
+    "title": "Angular",
+    "imageSrc": "skills/angular.png",
+    "percentage": "95%"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png",
+    "percentage": "98%"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png",
+    "percentage": "90%"
+  },
+  {
+    "title": ".NET",
+    "imageSrc": "skills/net.png",
+    "percentage": "87%"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png",
+    "percentage": "85%"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png",
+    "percentage": "75%"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png",
+    "percentage": "62%"
+  }
+]
